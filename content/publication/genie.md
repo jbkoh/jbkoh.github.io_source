@@ -17,3 +17,5 @@ abstract_short = "Comparison between physical thermostat and software thermostat
 image_preview = ""
 authors = ["Bharathan Balaji", "**Jason Koh**", "Nadir Weibel", "Yuvraj Agarwal"]
 publication = "Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing"
+
++++
