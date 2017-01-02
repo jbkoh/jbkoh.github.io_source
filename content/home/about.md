@@ -28,6 +28,8 @@ weight = 1
   institution = "Seoul National University"
   year = 2014
 
+image = "jbkoh.jpg"
+
 +++
 
 # Biography
