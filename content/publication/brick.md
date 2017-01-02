@@ -15,7 +15,7 @@ selected = true
 abstract_short = "Brick is a schema to represent resoureces in buildings."
 image_preview = ""
 authors = [
-  "Bharathan Balaji", "Arka Bhattacharya", "Gabe Fierro", "Jingkun Gao", "Joshua Gluck", "Dezhi Hong", "Aslak Johansen", "**Jason Koh**", "Yuvraj Agarwal", "Mario Berges", "David Culler", "Rajesh Gupta", "Mikkel Baun Kjærgaard", "Joern Ploennigs", "Kamin Whitehouse"]
+  "(Alphabetically)", "Bharathan Balaji", "Arka Bhattacharya", "Gabe Fierro", "Jingkun Gao", "Joshua Gluck", "Dezhi Hong", "Aslak Johansen", "**Jason Koh**", "Yuvraj Agarwal", "Mario Berges", "David Culler", "Rajesh Gupta", "Mikkel Baun Kjærgaard", "Joern Ploennigs", "Kamin Whitehouse"]
 publication = "Proceedings of the 3rd ACM International Conference on Systems for Energy-Efficient Built Environments, 2016"
 
 [[url_custom]]
