@@ -8,3 +8,7 @@ disqusShortname = "bk7749"
   email = "jbkoh@eng.ucsd.edu"
   github = "jbkoh"
   date_format = "aaaaaaaaaa"
+
+[[menu.main]]
+  name = "About"
+  url = "#about"
