@@ -20,7 +20,7 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Computer Science and Engineering"
+  course = "Ph.D. in Computer Science and Engineering"
   institution = "University of California, San Diego (USCD)"
 
 [[education.courses]]
