@@ -17,9 +17,9 @@ disqusShortname = "bk7749"
     github = "jbkoh"
     date_format = "2016-01-02"
 
-#avatar = "jbkoh.jpg"
+    avatar = "jbkoh.jpg"
 
-sharing = true
+    sharing = true
 
     [[params.social]]
         icon = "envelope"
