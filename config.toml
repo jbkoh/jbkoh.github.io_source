@@ -1,30 +1,38 @@
 title = "Jason Koh"
 languageCode = "en-us"
+copyright = "&copy; 2017 Jason Koh"
 baseurl = "http://jbkoh.github.io/"
 author = "Jason Koh"
 theme = "hugo-academic"
+enableEmoji = true
 disqusShortname = "bk7749"
-[Params]
-  email = "jbkoh@eng.ucsd.edu"
-  github = "jbkoh"
-  date_format = "aaaaaaaaaa"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params]
+    name = "Jason Koh"
+    organization = "University of California, San Diego"
+    email = "jbkoh@eng.ucsd.edu"
+    github = "jbkoh"
+    date_format = "2016-01-02"
 
 #avatar = "jbkoh.jpg"
 
 sharing = true
 
-[[params.social]]
-  icon = "envelope"
-  icon_pack = "fa"
-  link = "mailto:jbkoh@eng.ucsd.edu"
-[[params.social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.com/citations?user=G1KvxoUAAAAJ&hl=en"
-[[params.social]]
-  icon = "github"
-  icon_pack = "fa"
-  link = "https://github.com/jbkoh"
+    [[params.social]]
+        icon = "envelope"
+        icon_pack = "fa"
+        link = "mailto:jbkoh@eng.ucsd.edu"
+    [[params.social]]
+        icon = "google-scholar"
+        icon_pack = "ai"
+        link = "https://scholar.google.com/citations?user=G1KvxoUAAAAJ&hl=en"
+    [[params.social]]
+        icon = "github"
+        icon_pack = "fa"
+        link = "https://github.com/jbkoh"
 
 [[menu.main]]
   name = "Main"
