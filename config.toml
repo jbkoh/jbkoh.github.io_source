@@ -7,3 +7,4 @@ disqusShortname = "bk7749"
 [Params]
   email = "jbkoh@eng.ucsd.edu"
   github = "jbkoh"
+  date_format = "aaaaaaaaaa"
