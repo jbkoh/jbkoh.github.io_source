@@ -1,0 +1,9 @@
+title = "Jason Koh"
+languageCode = "en-us"
+baseurl = "http://jbkoh.github.io/"
+author = "Jason Koh"
+theme = "hugo-academic"
+disqusShortname = "bk7749"
+[Params]
+  email = "jbkoh@eng.ucsd.edu"
+  github = "jbkoh"
