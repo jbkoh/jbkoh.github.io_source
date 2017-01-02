@@ -16,9 +16,7 @@ disqusShortname = "bk7749"
     email = "jbkoh@eng.ucsd.edu"
     github = "jbkoh"
     date_format = "2016-01-02"
-
     avatar = "jbkoh.jpg"
-
     sharing = true
 
     [[params.social]]
@@ -53,11 +51,6 @@ disqusShortname = "bk7749"
         name = "Projects"
         url = "#projects"
         weight = 4
-
-    [[menu.main]]
-        name = "Teaching"
-        url = "#teaching"
-        weight = 5
 
     [[menu.main]]
         name = "Contact"
