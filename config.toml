@@ -9,6 +9,10 @@ disqusShortname = "bk7749"
   github = "jbkoh"
   date_format = "aaaaaaaaaa"
 
+avatar = "jbkoh.jpg"
+
+sharing = true
+
 [[params.social]]
   icon = "envelope"
   icon_pack = "fa"
