@@ -7,7 +7,7 @@ publication = "11th International Conference on Semantic Computing"
 url_slides = ""
 url_video = ""
 authors = [
-  "Jason Koh", "Steven Ray", "Jack Hodges"
+  "**Jason Koh**", "Steven Ray", "Jack Hodges"
 ]
 image = ""
 url_code = ""
