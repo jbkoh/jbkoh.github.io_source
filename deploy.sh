@@ -1,6 +1,6 @@
 git add --all
 git commit -m "src update"
-git push origin master
+git push -f origin master
 hugo
 cd public
 git add --all
