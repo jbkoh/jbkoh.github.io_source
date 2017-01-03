@@ -4,7 +4,7 @@ url_code = ""
 publication_short = ""
 url_video = ""
 authors = [
-   "Editor: Dan Brickley", "Contributors (alphabetically): Yuvraj Agarwal", "Laura Daniele", "Joshua Gluck", "R.V. Guha", "Ted Hardie", "Jason Koh", "Ari Keränen", "Michael Koster", "Dave Raggett", "Max Senges".
+   "Editor: Dan Brickley", "Contributors (alphabetically): Yuvraj Agarwal", "Laura Daniele", "Joshua Gluck", "R.V. Guha", "Ted Hardie", "Jason Koh", "Ari Keränen", "Michael Koster", "Dave Raggett", "Max Senges"
 ]
 selected = false
 url_project = ""
@@ -18,6 +18,10 @@ title = "IoT and Schema.org: Getting Started"
 image_preview = ""
 math = false
 url_slides = ""
+
+[[url_custom]]
+name = "iot.schema.org"
+url = "http://iot.webschemas.org/"
 
 +++
 
