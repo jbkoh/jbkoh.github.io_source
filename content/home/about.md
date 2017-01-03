@@ -21,7 +21,7 @@ weight = 1
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Pursuing Ph.D. in Computer Science and Engineering"
-  institution = "University of California, San Diego (USCD)"
+  institution = "University of California, San Diego (UCSD)"
 
 [[education.courses]]
   course = "B.S. in Electrical and Computer Engineering"

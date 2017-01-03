@@ -21,5 +21,9 @@ publication = "Proceedings of the 3rd ACM International Conference on Systems fo
 [[url_custom]]
 name = "Brick Website"
 url = "https://brickschema.org"
+
+[[award_custom]]
+name = "Audience Choice Award"
+
 +++
 
