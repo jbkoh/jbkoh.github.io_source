@@ -16,7 +16,7 @@ disqusShortname = "bk7749"
     email = "jbkoh@eng.ucsd.edu"
     github = "jbkoh"
     date_format = "2016-01-02"
-    avatar = "jbkoh.jpg"
+    avatar = "img/jbkoh.jpg"
     sharing = true
 
     [[params.social]]
