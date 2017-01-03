@@ -25,5 +25,8 @@ url = "https://brickschema.org"
 [[award_custom]]
 name = "Audience Choice Award"
 
+[[award_custom]]
+name = "Best Paper Finalist"
+
 +++
 
