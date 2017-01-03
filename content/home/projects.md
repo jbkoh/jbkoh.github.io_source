@@ -26,12 +26,12 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+  name = "Smart Building"
+  tag = ".smart-building"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Semantic Web"
+  tag = ".semantic-web"
 
 +++
 
