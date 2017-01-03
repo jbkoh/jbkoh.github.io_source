@@ -18,6 +18,8 @@ url_pdf = "http://dl.acm.org/citation.cfm?id=2830300"
 url_code = ""
 url_video = ""
 image = ""
+[[award_custom]]
+name = "Best Poster Award"
 
 +++
 
