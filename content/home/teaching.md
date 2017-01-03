@@ -14,6 +14,6 @@ weight = 60
 
 +++
 
-I was a teaching instructor for the following courses at University of California, San Diego.
+Teaching Assistant
 
 - CSE237B: Software for Embedded Computing (2016-Spring)
