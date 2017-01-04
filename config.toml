@@ -39,7 +39,8 @@ disqusShortname = "bk7749"
 
     [[menu.main]]
         name = "Publications"
-        url = "#publications_selected"
+        url = "#publications"
+        #url = "#publications_selected"
         weight = 2
 
     [[menu.main]]
@@ -50,6 +51,11 @@ disqusShortname = "bk7749"
     [[menu.main]]
         name = "Projects"
         url = "#projects"
+        weight = 4
+    
+    [[menu.main]]
+        name = "Source Code"
+        url = "#source_code"
         weight = 4
 
     [[menu.main]]
