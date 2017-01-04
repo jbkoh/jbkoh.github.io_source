@@ -42,22 +42,22 @@ disqusShortname = "bk7749"
         url = "#publications"
         #url = "#publications_selected"
         weight = 2
-
-    [[menu.main]]
-        name = "Posts"
-        url = "#posts"
-        weight = 3
-
-    [[menu.main]]
-        name = "Projects"
-        url = "#projects"
-        weight = 4
     
     [[menu.main]]
         name = "Source Code"
         url = "#source_code"
+        weight = 3
+
+    [[menu.main]]
+        name = "Posts"
+        url = "#posts"
         weight = 4
 
+    [[menu.main]]
+        name = "Projects"
+        url = "#projects"
+        weight = 5
+    
     [[menu.main]]
         name = "Contact"
         url = "#contact"
