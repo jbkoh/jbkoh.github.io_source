@@ -6,6 +6,6 @@ weight = 40
 
 +++
 
-* UCSD Data Sharing
-* Brick 
+* UCSD Data Sharing [link](http://http://mesl-exp.ucsd.edu:1713/-)
+* Brick [link](http://brickschema.org)
 
