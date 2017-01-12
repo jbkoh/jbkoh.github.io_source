@@ -3,6 +3,7 @@ git commit -m "src update"
 git push -f origin master
 hugo
 cd public
+rm -rf .git
 git init
 git remote add origin https://github.com/jbkoh/jbkoh.github.io.git
 git add * -A
