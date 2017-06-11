@@ -6,7 +6,7 @@ title = "Genie: a longitudinal study comparing physical and software thermostats
 url_dataset = ""
 url_slides = ""
 url_pdf = "http://dl.acm.org/citation.cfm?id=2971719"
-date = "2017-01-02T11:13:29-08:00"
+date = "2016-09-12T11:13:29-08:00"
 abstract = "Thermostats are the primary interface for occupants of office buildings to express their thermal comfort preferences. However, traditional thermostats are often ineffective due to physical inaccessibility, lack of information or limited responsiveness, which lead to occupant discomfort. Modern thermostat designs do overcome some of these limitations, but retrofitting them to existing buildings is prohibitively expensive. Software thermostats based on web or smartphone apps provide an alternate interaction mechanism with minimal deployment cost. However, their usage and effectiveness have not been studied extensively in real settings. We present Genie, a novel software thermostat that we designed and deployed in our university for over 21 months. We compare the use of Genie to traditional thermostats. Our data and user study show that due to the clarity of information and wider thermal control provided by Genie, users feel more comfortable in their offices. Furthermore, the improved comfort did not affect the overall energy consumption or lead to misuse of HVAC controls."
 url_video = ""
 image = ""
