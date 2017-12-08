@@ -21,7 +21,7 @@ image = ""
 
 [[url_custom]]
 name = "Poster"
-url = "pdf/sensys2017_citadelposter_poster.pdf"
+url = "pdf/citadelposter_poster.pdf"
 
 +++
 

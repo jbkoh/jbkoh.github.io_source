@@ -20,7 +20,7 @@ image = ""
 
 [[url_custom]]
 name = "Poster"
-url = "pdf/buildsys2017_scrabbleposter_poster.pdf"
+url = "pdf/scrabbleposter_poster.pdf"
 
 +++
 
