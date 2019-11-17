@@ -16,6 +16,7 @@ url_project = ""
 url_pdf = "pdf/buildsys2019_acl.pdf"
 url_code = ""
 url_video = ""
+url_slides = "https://docs.google.com/presentation/d/1zGLWN75hYBDi4paNLon9NpUFMBLbjmvk0zAf6FNF26A/edit?usp=sharing"
 image = ""
 +++
 
