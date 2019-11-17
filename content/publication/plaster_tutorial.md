@@ -19,7 +19,11 @@ authors = [
 publication = "Proceedings of the 5th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, 2019"
 
 [[url_custom]]
-name = "Plaster Webservice"
+name = "Plaster WS"
 url = "https://plaster.ucsd.edu"
+
+[[url_custom]]
+name = "Tutorial Description"
+url = "https://buildsys.acm.org/2019/workshops/#t1"
 +++
 
